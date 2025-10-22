@@ -19,7 +19,6 @@ To build the project, use the provided Makefile:
 ```bash
 make
 
-
 This will compile all the necessary files and create the `shevy.as` executable.
 
 ## Running the Project
