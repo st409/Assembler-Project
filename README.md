@@ -25,7 +25,7 @@ This will compile all the necessary files and create the `shevy.as` executable.
 
 To run the project, use the following command:
 
-* `./run file1 file2 ... fileN`
+./run file1 file2 ... fileN
 
 **Important Note on File Names:**
 When specifying input files, omit the `.as` suffix. The assembler will automatically add `.as` to the input file names.
