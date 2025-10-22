@@ -1,6 +1,4 @@
-בהחלט — הנה הגרסה הערוכה והמוכנה ל־GitHub, בתצורת Markdown תקנית, בלי סמיילים ובלי איורים:
 
-````markdown
 # Assembler Project
 
 ## Overview
@@ -57,13 +55,11 @@ Input files should be in `.as` format and must include valid assembly code that 
 ## Output Files
 
 For each input file, the assembler produces the following output files:
-
-| Extension | Description                                                    |
-| --------- | -------------------------------------------------------------- |
-| `.am`     | Contains the input file after macro expansion                  |
-| `.ob`     | The object file that includes the compiled machine code        |
-| `.ent`    | Lists the entry points defined in the assembly code (if any)   |
-| `.ext`    | Details external references used in the assembly code (if any) |
+                                                    |
+`.am` Contains the input file after macro expansion                  
+`.ob` The object file that includes the compiled machine code        
+`.ent` Lists the entry points defined in the assembly code (if any)   
+`.ext` Details external references used in the assembly code (if any)
 
 ---
 
