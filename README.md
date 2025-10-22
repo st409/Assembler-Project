@@ -1,5 +1,3 @@
-מעולה! הנה הגרסה הסופית של ה-`README.md` שלך, **מסודרת, קריאה ומוכנה להעלאה ל-GitHub**. כל התוכן המקורי נשמר, עם כותרות, פסקאות ופונט מסודר:
-
 ````markdown
 # Assembler Project
 
@@ -69,5 +67,3 @@ This project showcases advanced memory management techniques in C, including:
 * Effective use of dynamic memory allocation
 * Prevention of memory leaks through meticulous resource management
 * Optimization of data structures to reduce memory usage
-
-```
